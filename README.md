@@ -4,10 +4,10 @@ I present a Matlab-based enviroment, SFIT that uses 'model differencing' to intu
 
 References: 
             
-            R. Schultz, L. Villiger, V. Gischig, & S. Wiemer (2026)
-            Interpreting the cause of bound earthquakes at underground injection experiments
-            Solid Earth, 17(4), 617-642.
-            doi: 10.5194/se-17-617-2026.
+            R. Schultz, A.P. Rinaldi, & S. Wiemer (2026)
+            Prototyping the Seismogenic Fault Injection Test
+            Geophysical Research Letters, xx, XX.
+            doi: xx.
             
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
